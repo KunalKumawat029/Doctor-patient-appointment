@@ -1,0 +1,16 @@
+.tab{
+  
+    padding: 10%;
+}
+.tab table{
+    border: 2px solid rgb(30, 7, 53);
+    width: 100%;
+    height: 200px;
+    text-align: center;
+}
+.tab th{
+    border: 2px solid rgb(30, 7, 53);
+}
+.tab td{
+    border: 2px solid rgb(30, 7, 53);
+}

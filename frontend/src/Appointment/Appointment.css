@@ -1,0 +1,66 @@
+/* .menu{
+    
+    
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: nowrap;
+    align-content: stretch;
+    justify-items: stretch;
+    align-items: center;
+    padding: 10%;
+
+}
+.menu .one{
+    border: 2 solid rgba(0,0,0,0.6);
+    border-radius: 10px;
+    padding: 16px;
+    width: 20%;
+    background-color: antiquewhite;
+}
+.menu .drope{
+    border: 2 solid rgba(0,0,0,0.6);
+    border-radius: 10px;
+    padding: 16px;
+    width: 20%; 
+    background-color: antiquewhite;
+    text-decoration: none;
+}
+.drope .dropdown-toggle{
+    color: #333;
+    text-decoration: none;
+}
+.dropdown-menu a:hover{
+    color: #584848;
+    text-decoration: underline;
+    list-style: none;
+}
+
+#appoi a{
+    text-decoration: none;
+    color: #000;
+} 
+#appoi a:hover{
+    color: rgb(38, 46, 46);
+    text-decoration: underline;
+}
+#appoi a:hover::after{
+    
+    background: aqua;
+    
+}
+
+
+.App table{
+    border: 2px solid rgb(30, 7, 53);
+    width: 100%;
+    height: 200px;
+    text-align: center;
+}
+.App th{
+    border: 2px solid rgb(30, 7, 53);
+}
+.App td{
+    border: 2px solid rgb(30, 7, 53);
+} */

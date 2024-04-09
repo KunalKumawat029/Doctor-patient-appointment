@@ -1,0 +1,52 @@
+.A {
+    border: 6px solid rgba(0, 0, 0, 0.06);
+    border-radius: 60px;
+    justify-content: center;
+    align-items: center;
+    min-height: 50vh;
+    display: grid;
+    width: 50vw;
+    margin: 10rem auto;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+.B h1{
+
+        width: 15%;
+        text-align: center;
+        font-size: larger;
+        height: 50px;
+        border-radius: 10px;
+        background-color: aquamarine;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-top: 20px;
+}
+
+.A .on {
+    text-align: center;
+    font-size: larger;
+    height: 90px;
+    border-radius: 10px;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.A .onn {
+    text-align: center;
+    font-size: larger;
+    height: 90px;
+    border-radius: 10px;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 190%;
+}
